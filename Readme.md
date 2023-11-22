@@ -14,4 +14,4 @@ Ejemplo básico de como utilizar la libreria Zxing en Java para la lectura de co
 
 ## Imagenes
 
-![Image text](https://github.com/programadorescs/)
+![Image text](https://github.com/programadorescs/EscanearBarcode/blob/master/app/src/main/assets/barcode.jpg)
